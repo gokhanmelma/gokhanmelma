@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+        <br>
+        <br>
+        <br>
+        <br>
+        <img src="https://raw.githubusercontent.com/gokhanmelma/gokhanmelma/master/tada.svg?sanitize=true" width="60" height="60">
+        <h3>Hi <i>there!</i> :clap: </h3>
+        <h4>I enjoy putting my ideas, tricks and cool experiences on :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists :notebook_with_decorative_cover:</a>. Go check it out :)</h4>
+        <br>
+        <br>
+</div>
 
-<!--
-**gokhanmelma/gokhanmelma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+        
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=gokhanmelma.gokhanmelma) &nbsp;&nbsp;
+[![Github](https://img.shields.io/github/followers/gokhanmelma.svg?label=GitHub&style=social)](https://github.com/gokhanmelma) &nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gokhanmelma) &nbsp;&nbsp;
+[![Twitter](https://img.shields.io/twitter/follow/gokhanmelma?label=Twitter&style=social)](https://twitter.com/intent/follow?screen_name=gokhanmelma) &nbsp;&nbsp;
+</div>
 
-Here are some ideas to get you started:
+<!-- --- -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanmelma&theme=white" />  -->
+
+<!-- <img align="left" alt="gokhanmelma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gokhanmelma&show_icons=true&hide_border=true" /> -->
