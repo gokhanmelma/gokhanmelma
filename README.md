@@ -11,6 +11,10 @@
 </div>
 
 <div>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/bc5yb6pqs4zoiykj57058n1v7)
         
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gokhanmelma.gokhanmelma) &nbsp;&nbsp;
 [![Github](https://img.shields.io/github/followers/gokhanmelma.svg?label=GitHub&style=social)](https://github.com/gokhanmelma) &nbsp;&nbsp;
