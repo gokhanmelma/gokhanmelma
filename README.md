@@ -7,7 +7,6 @@
         <h3>Hi <i>there!</i> :clap: </h3>
         <h4>Check out the :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists</a> to see my ideas, tricks and cool experiences.
         <br>
-        <p align="center"><img src="https://profile-counter.glitch.me/gokhanmelma/count.svg" alt=""/></p>
         <br>
 </div>
 
