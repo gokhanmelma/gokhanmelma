@@ -11,10 +11,6 @@
 </div>
 
 <div>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/user/ai6ctpr4qi6cbln0tyx9pk4as)
         
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gokhanmelma.gokhanmelma) &nbsp;&nbsp;
 [![Github](https://img.shields.io/github/followers/gokhanmelma.svg?label=GitHub&style=social)](https://github.com/gokhanmelma) &nbsp;&nbsp;
