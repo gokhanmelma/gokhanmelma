@@ -5,7 +5,7 @@
         <br>
         <!-- <img src="https://raw.githubusercontent.com/gokhanmelma/gokhanmelma/main/tada.svg?sanitize=true" width="60" height="60"> -->
         <h3>Hi <i>there!</i> :clap: </h3>
-        <h4>Check out the :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists</a> to see my ideas, tricks and cool experiences.
+        <h4>I :heart: share my ideas on the :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists</a>.
         <br>
         <br>
 </div>
