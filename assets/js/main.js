@@ -1,7 +1,3 @@
-/**
- * Author: Ta Khac Cong (Ryan)
- */
-
 !(function($) {
   "use strict";
 

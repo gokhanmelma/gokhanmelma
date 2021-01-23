@@ -3,7 +3,6 @@
         <br>
         <br>
         <br>
-        <!-- <img src="https://raw.githubusercontent.com/gokhanmelma/gokhanmelma/main/tada.svg?sanitize=true" width="60" height="60"> -->
         <h3>Hi <i>there!</i> :clap: </h3>
         <h4>I :heart: share my ideas on the :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists</a>.
         <br>
@@ -18,9 +17,8 @@
 [![Twitter](https://img.shields.io/twitter/follow/gokhanmelma?label=Twitter&style=social)](https://twitter.com/intent/follow?screen_name=gokhanmelma) &nbsp;&nbsp;
 </div>
 
-<!-- --- -->
-
+<!--
 <br />
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanmelma&theme=white" />  -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanmelma&theme=white" />
 
-<!-- <img align="left" alt="gokhanmelma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gokhanmelma&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="gokhanmelma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gokhanmelma&show_icons=true&hide_border=true" />  -->
