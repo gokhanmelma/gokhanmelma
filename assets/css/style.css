@@ -12,11 +12,11 @@ body {
   background: #000000;
 }
 
-a {
+a, span {
   color: #ffa243;
 }
 
-a:hover {
+a:hover, span:hover {
   color: #fab56f;
   text-decoration: none;
 }
@@ -29,6 +29,10 @@ p {
 .center {
   text-align: center;
   justify-content: center;
+}
+
+.pointer {
+  cursor: pointer;
 }
 
 /*--------------------------------------------------------------
