@@ -1,7 +1,3 @@
-/**
- * Author: Ta Khac Cong (Ryan)
- */
-
 /* Check the location of each element */
 $(".content").each(function (i) {
   var bottom_of_object = $(this).offset().top + $(this).outerHeight();
