@@ -4,7 +4,7 @@
         <br>
         <br>
         <h3>Hi <i>there!</i> :clap: </h3>
-        <h4>I :heart: share my ideas on the :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists</a>.
+        <h4>I :heart: to share my ideas on the :octocat:<a href="https://gist.github.com/gokhanmelma" target="_blank"> gists</a>.
         <br>
         <br>
 </div>
